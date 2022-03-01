@@ -5970,3 +5970,9 @@ TrainIJCNN2013/42/00005.ppm
 TrainIJCNN2013/42/00006.ppm
 00055.ppm
 .ipynb_checkpoints/11_Tensorflow_MNIST-checkpoint.ipynb
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646057272.LAPTOP-O13D4RHT.20560.0.v2
+inference_graph/frozen_inference_graph.pb
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646058542.LAPTOP-O13D4RHT.20560.2.v2
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646155813.LAPTOP-O13D4RHT.4828.0.v2
+logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646057635.LAPTOP-O13D4RHT.20560.1.v2
+logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646058908.LAPTOP-O13D4RHT.20560.3.v2
