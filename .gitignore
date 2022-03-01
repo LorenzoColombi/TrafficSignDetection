@@ -1,0 +1,8 @@
+#dataset inziale e file creati durante l'esecuzione
+./FullJCNN2013/*
+./TestJCNN2013/*
+./TrainJCNN2013/*
+./content/*
+./images/*
+./log/*
+./testImages/*
