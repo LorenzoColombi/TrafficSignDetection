@@ -5976,3 +5976,11 @@ logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646058542.LAPTOP-O13
 logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646155813.LAPTOP-O13D4RHT.4828.0.v2
 logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646057635.LAPTOP-O13D4RHT.20560.1.v2
 logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646058908.LAPTOP-O13D4RHT.20560.3.v2
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646732859.LAPTOP-KA197CQ3.5172.0.v2
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646734694.LAPTOP-KA197CQ3.5172.2.v2
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646735394.LAPTOP-KA197CQ3.5172.4.v2
+logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646736227.LAPTOP-KA197CQ3.5172.6.v2
+logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646733292.LAPTOP-KA197CQ3.5172.1.v2
+logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646735134.LAPTOP-KA197CQ3.5172.3.v2
+logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646736046.LAPTOP-KA197CQ3.5172.5.v2
+logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646736768.LAPTOP-KA197CQ3.5172.7.v2
