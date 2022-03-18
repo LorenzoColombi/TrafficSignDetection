@@ -5990,3 +5990,4 @@ logs/tensor_logs_scheduler_5_8_9/train/events.out.tfevents.1646736227.LAPTOP-KA1
 logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646735134.LAPTOP-KA197CQ3.5172.3.v2
 logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646736046.LAPTOP-KA197CQ3.5172.5.v2
 logs/tensor_logs_scheduler_5_8_9/validation/events.out.tfevents.1646736768.LAPTOP-KA197CQ3.5172.7.v2
+yolov3_finetuned_augmented.h5
