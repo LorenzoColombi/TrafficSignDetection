@@ -19,6 +19,8 @@ tensorflow, numpy, pandas, matplotlib, seaborn e opencv-python (usando anche il 
 
 È inoltre necessario che alcune directory (anche vuote) esistano nella directory corrente. Queste sono tutte quelle che si vedranno nelle prime righe di ogni cella, in cui vengono configurati i path.  
 
+È infine necessario scaricare i pesi preaddestrati della Darknet dal link: https://pjreddie.com/media/files/yolov3.weights
+
 La parte di creazione del modello è indipendente dalla precedente e usa solamente i file tfrecord creati dalla prima parte oltre ai file delle immagini convertite in JPG. È possibile quindi testare l'addestramento con diversi iperparametri senza dover ri-creare i file tfrecord e ripetere le fasi iniziali.
 
 Le informazioni sul codice se brevi sono scritte come commenti all'inizio di ogni cella oppure se più consistenti come cella Markdown precedente al codice.  
