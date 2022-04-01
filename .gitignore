@@ -1,4 +1,4 @@
-#dataset inziale e file creati durante l'esecuzione
+#dataset inziale e file creati durante l'esecuzione del notebook
 ./FullJCNN2013/*
 /TestJCNN2013/*
 ./TrainJCNN2013/*
